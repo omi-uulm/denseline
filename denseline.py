@@ -190,7 +190,7 @@ def main(df, size=(1000, 1000), title="Line Heatmap", x_lable="time", y_lable="v
     """
 
     :param df: is a pandas Dataframe, which contains ONLY numbers as values. All columns will be used as a single series in the plot.
-        The information, which timeseries is which cant be desplayed in the plot
+        The information, which timeseries is which cannot be displayed in the plot
         the df should be look like this:
 
     :param size: represents the resolution for the raster matrix
