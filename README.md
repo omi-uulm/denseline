@@ -15,3 +15,7 @@ Each column represents one time series like so:
 
 
 The code does not work with a datetime-index so be sure the index is numeric.
+
+Example output:
+
+ ![densityline](example.png)
