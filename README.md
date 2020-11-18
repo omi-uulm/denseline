@@ -1,4 +1,5 @@
 This is the Python version of Dominik Moritz's code for the [Density Line Chart](https://github.com/domoritz/line-density) implementation.
+
 The original publication can be [found here](https://arxiv.org/abs/1808.06019).
 
 
